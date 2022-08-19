@@ -103,7 +103,7 @@ const Dot: React.FC<{
       style={[
         {
           backgroundColor: props.activeColor,
-          margin: 3 * props.sizeRatio,
+          margin: 1.5 * props.sizeRatio,
         },
         animStyle,
       ]}

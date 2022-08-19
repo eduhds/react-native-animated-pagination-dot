@@ -12,15 +12,15 @@ enum EnumDotType {
 
 const DotStyle = {
   [EnumDotType.INACTIVE]: {
-    size: 8,
+    size: 5,
     opacity: 0.2,
   },
   [EnumDotType.ACTIVE]: {
-    size: 8,
+    size: 5,
     opacity: 1.0,
   },
   [EnumDotType.MEDIUM]: {
-    size: 5,
+    size: 4,
     opacity: 0.2,
   },
   [EnumDotType.SMALL]: {
